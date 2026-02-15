@@ -1,0 +1,31 @@
+# Build folders
+/build
+/app/build
+
+# IDE files
+/.idea
+*.iml
+*.hprof
+
+# Local settings
+/local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle
+/captures
+.externalNativeBuild
+
+# Kotlin
+*.kotlin_module
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
